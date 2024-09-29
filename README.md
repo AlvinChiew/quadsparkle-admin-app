@@ -1,0 +1,1 @@
+# quadsparkle-admin-app
